@@ -1,6 +1,6 @@
 // axios for http communication https://webexapis.com/v1/rooms
 const axios = require('axios')
-const token = 'Bearer ZWM2OTNhYzItMmZkMi00NjY2LWE0ZTMtMTI2MzIwYzljNzc1ZGI5NjkwODMtMTAy_P0A1_a9abfdab-59bd-465e-91ee-a46ce4872278'
+const token = 'Bearer <yourpersonalaccesstokenhere>'
 const roomsUrl = 'https://webexapis.com/v1/rooms'
 const messagesUrl = 'https://webexapis.com/v1/messages'
 
